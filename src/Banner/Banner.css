@@ -1,0 +1,6 @@
+.banner{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/reactdap.appspot.com/o/federer2.jpg?alt=media&token=6143e88c-1283-4fd2-bbb9-5eb925691e5c");
+    background-position: top-center;
+    background-size: cover;
+    padding: 5% 20% 40% 20%;
+}
